@@ -42,3 +42,15 @@ This repository focuses on providing:
 ```bash
 git clone https://github.com/yourusername/latex-equation-parser.git
 cd latex-equation-parser
+
+
+### 2. Install dependencies :
+```bash
+pip install -r requirements.txt
+
+### 3. Download DONUT_KIE_weights from [Weights](https://kaggle.com/datasets/8dd270c140da54ca2ce135472570b4f2ca44262ffc178ae47edb30bb9c05a0ee)
+
+### 4. Set model and processor path to weights in App.py
+
+### 5. run app.py
+
