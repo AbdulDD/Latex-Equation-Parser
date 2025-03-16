@@ -1,0 +1,10 @@
+{
+    "latex_1": "e^x / 2",
+    "latex_2": "x + y + z^2 = 7",
+    "latex_3": "x^2 + \\sqrt{y} + z = 10",
+    "latex_4": "\\sqrt{3 + z} = 10",
+    "latex_5": "\\log_{4}(5 + z)",
+    "latex_6": "2x + 3 = y",
+    "latex_7": "\\log(x^2 + 3y)",
+    "latex_8": "\\lim_{x \\to 2} \\frac{x^2 - 4}{x - 2}"
+}

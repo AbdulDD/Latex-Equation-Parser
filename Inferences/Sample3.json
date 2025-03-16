@@ -1,0 +1,10 @@
+{
+    "latex_1": "\\lim_{x \\to \\infty} \\frac{8x^7 + x^6}{e^x}",
+    "latex_2": "\\log_{4}(2x + 1)",
+    "latex_3": "8e^{-3y}",
+    "latex_4": "x + y + \\sqrt{z} = 4",
+    "latex_5": "3x + 2y + z = 6",
+    "latex_6": "2x + 3 = y",
+    "latex_7": "x^2 + y = 2",
+    "latex_8": "\\lim_{x \\to \\infty} \\frac{x^4x^3}{x^4 + 1}"
+}

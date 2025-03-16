@@ -1,0 +1,10 @@
+{
+    "latex_1": "x + 2y - \\sqrt{z} = 9",
+    "latex_2": "\\lim_{x \\to \\infty} \\frac{5x^4 + x^2}{e^x}",
+    "latex_3": "e^{x^2}",
+    "latex_4": "x^2 + \\frac{<unk>}{y}{y} = 5",
+    "latex_5": "2x + \\sqrt{y} + z^3 = 6",
+    "latex_6": "\\lim_{x \\to 2} \\frac{x^2} - 10 9 6}{x - 2}",
+    "latex_7": "x^3 + y = 0",
+    "latex_8": "\\lim_{x \\to \\infty} \\frac{x^5}{x^5 + 7x^2}"
+}
